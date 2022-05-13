@@ -1,0 +1,2 @@
+Company name: Gemini Solutions
+Skills: python  ,  mobile  ,  svn  ,  nosql  ,  python scripting  ,  git  ,  api  ,  sql database

@@ -1,0 +1,2 @@
+Company name: hk infosoft
+Skills: python  ,  django  ,    ,   framework

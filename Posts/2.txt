@@ -1,0 +1,2 @@
+Company name: TECHNOPARK TRIVANDRUM
+Skills: rest  ,  python  ,  rest api  ,  team player  ,  database  ,  django  ,  debugging  ,  mysql

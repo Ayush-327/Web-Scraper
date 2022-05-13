@@ -1,0 +1,2 @@
+Company name: LAKSH HUMAN RESOURCE
+Skills: rest  ,  python  ,  django  ,  git

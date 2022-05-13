@@ -1,0 +1,2 @@
+Company name: HARMAN INTERNATIONAL
+Skills: python  ,  os  ,  linux  ,  middleware

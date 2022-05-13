@@ -1,0 +1,2 @@
+Company name: JobsLo Consultants
+Skills: python  ,  linux  ,  windows  ,  sql

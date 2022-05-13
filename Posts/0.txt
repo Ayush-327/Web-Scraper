@@ -1,0 +1,2 @@
+Company name: Pure Tech Codex Private Limited
+Skills: rest  ,  python  ,  database  ,  django  ,  debugging  ,  mongodb

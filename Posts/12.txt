@@ -1,0 +1,2 @@
+Company name: TandA HR Solutions
+Skills: python  ,  django  ,  sql

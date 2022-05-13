@@ -1,0 +1,2 @@
+Company name: BRICKRED TECHNOLOGIES PVT. LTD.
+Skills: image processing  ,  python  ,  opencv

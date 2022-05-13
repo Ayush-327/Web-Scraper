@@ -1,0 +1,2 @@
+Company name: Surya Informatics Solutions Pvt. Ltd.
+Skills: python  ,  web technologies  ,  linux  ,  mobile  ,  mysql  ,  angularjs  ,  javascript

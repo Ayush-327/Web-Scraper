@@ -1,0 +1,2 @@
+Company name: brickred  ( 3pillar global )
+Skills: software products  ,  Python  ,  DynamoDB
